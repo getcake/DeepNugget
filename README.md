@@ -15,6 +15,8 @@ so it's reccomended you create a virtualenv.
 
 # Setup
 
+snap install ngrok
+
 virtualenv coolname  
 
 source coolname/bin/activate  
