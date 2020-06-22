@@ -16,3 +16,4 @@ deeppyer
 flask  
 tensorflow < 2.0  
 keras 
+pyperclip
