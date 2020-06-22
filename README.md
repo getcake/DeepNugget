@@ -7,13 +7,18 @@ A flask SMS bot that uses YOLOv3 and the Twilio API to detect, and deepfry chick
 
 Inspired by [Hack Club's](https://hackclub.com/) summer of making random-idea generator! 
 
-# Requirements 
-YOLOv3  
-ImageAI  
-Twilio  
-Imgur-uploader  
-deeppyer  
-flask  
-tensorflow < 2.0  
-keras 
-pyperclip
+# Disclaimer 
+
+Requires an older version of tensorflow in order to run, 
+so it's reccomended you create a virtualenv.
+
+
+# Setup
+
+virtualenv coolname  
+
+source coolname/bin/activate  
+
+git clone https://github.com/getcake/DeepNugget.git  
+
+pip3 install -r requirements.txt  
