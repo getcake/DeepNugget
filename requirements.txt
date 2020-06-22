@@ -5,3 +5,4 @@ deeppyer==1.0.1
 imgur-uploader==0.3.0
 tensorflow==1.14.0
 twilio==6.42.0
+pyperclip==1.8.0
