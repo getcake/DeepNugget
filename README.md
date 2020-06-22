@@ -12,7 +12,13 @@ Inspired by [Hack Club's](https://hackclub.com/) summer of making random-idea ge
 Requires an older version of tensorflow in order to run, 
 so it's reccomended you create a virtualenv.
 
+# Requirements
 
+A Twilio account (you can get a trial one for free)  
+
+ngrok
+
+requirements.txt
 # Setup
 
 snap install ngrok
