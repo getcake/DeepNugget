@@ -8,7 +8,7 @@ A flask SMS bot that uses YOLOv3 and the Twilio API to detect, and deepfry chick
 Inspired by [Hack Club's](https://hackclub.com/) summer of making random-idea generator! 
 
 # Requirements 
-
+YOLOv3  
 ImageAI  
 Twilio  
 Imgur-uploader  
