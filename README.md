@@ -20,6 +20,7 @@ ngrok
 requirements.txt
 # Setup
 
+~~~
 snap install ngrok
 
 virtualenv coolname  
@@ -29,3 +30,5 @@ source coolname/bin/activate
 git clone https://github.com/getcake/DeepNugget.git  
 
 pip3 install -r requirements.txt  
+
+~~~
