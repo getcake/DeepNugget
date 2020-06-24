@@ -31,4 +31,10 @@ git clone https://github.com/getcake/DeepNugget.git
 
 pip3 install -r requirements.txt  
 
+ngrok http 5000
+
+Insert your ngrok url into the webhook page on the Twilio console 
+
+Replace the filler url in deep_nugget.py with your ngrok url
+
 ~~~
