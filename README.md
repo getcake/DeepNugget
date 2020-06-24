@@ -9,7 +9,7 @@ Inspired by [Hack Club's](https://hackclub.com/) summer of making random-idea ge
 # Disclaimer 
 
 Requires an older version of tensorflow in order to run, 
-so it's reccomended you create a virtualenv.
+so it's reccomended you create a virtualenv. This is also a potential security risk.
 
 # Requirements
 
