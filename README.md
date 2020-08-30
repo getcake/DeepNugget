@@ -6,10 +6,7 @@ A flask SMS bot that uses ImageAI, YOLOv3, and the Twilio API to detect, and dee
 
 Inspired by [Hack Club's](https://hackclub.com/) summer of making random-idea generator! 
 
-# Disclaimer 
 
-Requires an older version of tensorflow in order to run, 
-so it's reccomended you create a virtualenv. This is also a potential security risk.
 
 # Requirements
 
@@ -25,5 +22,6 @@ requirements.txt
 git clone https://github.com/getcake/DeepNugget.git  
 
 pip3 install -r requirements.txt  
+
 
 ~~~
