@@ -8,14 +8,13 @@ Inspired by [Hack Club's](https://hackclub.com/) summer of making random-idea ge
 
 
 
-# Requirements
+# Additional requirements
 
-A Twilio account (you can get a trial one for free)  
+Free [Twilio](https://www.twilio.com/) account 
 
 ngrok
 
-requirements.txt
-# Setup
+# Setup (Linux)
 
 ~~~
 
@@ -23,5 +22,18 @@ git clone https://github.com/getcake/DeepNugget.git
 
 pip3 install -r requirements.txt  
 
+sudo snap install ngrok
+
+~~~
+
+# Setup (macOS)
+
+~~~
+
+git clone https://github.com/getcake/DeepNugget.git  
+
+pip3 install -r requirements.txt  
+
+brew install ngrok
 
 ~~~
