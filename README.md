@@ -1,5 +1,5 @@
 # DeepNugget
-A flask SMS bot that uses ImageAI, YOLOv3, and the Twilio API to detect, and deepfry chicken nuggets.
+An SMS bot that uses ImageAI, YOLOv3, and the Twilio API to detect, and deepfry chicken nuggets.
 
 ![Insp(pip install deeppyer)  iration](https://i.imgur.com/VhqnbbY.png)  
 [![License](https://poser.pugx.org/ali-irawan/xtra/license.svg)](https://github.com/getcake/DeepNugget/blob/master/LICENSE)
